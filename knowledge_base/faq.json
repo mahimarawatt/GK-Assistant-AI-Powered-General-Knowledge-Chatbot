@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is the speed of light?",
+    "answer": "The speed of light in a vacuum is approximately 299,792,458 meters per second (about 3 × 10⁸ m/s). Nothing in the universe can travel faster than light.",
+    "category": "science"
+  },
+  {
+    "question": "What is photosynthesis?",
+    "answer": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to produce oxygen and energy in the form of glucose. It occurs mainly in the chloroplasts of plant cells.",
+    "category": "science"
+  },
+  {
+    "question": "What is Newton's First Law of Motion?",
+    "answer": "Newton's First Law states that an object at rest stays at rest, and an object in motion stays in motion at the same speed and direction, unless acted upon by an external force. This is also called the Law of Inertia.",
+    "category": "science"
+  },
+  {
+    "question": "What is DNA?",
+    "answer": "DNA (Deoxyribonucleic Acid) is the molecule that carries genetic information in all living organisms. It has a double-helix structure and contains four bases: Adenine, Thymine, Guanine, and Cytosine.",
+    "category": "science"
+  },
+  {
+    "question": "What is the theory of relativity?",
+    "answer": "Albert Einstein's theory of relativity has two parts: Special Relativity (1905), which states that the laws of physics are the same for all observers and introduces E=mc², and General Relativity (1915), which describes gravity as a curvature of spacetime.",
+    "category": "science"
+  },
+  {
+    "question": "How do black holes form?",
+    "answer": "Black holes form when massive stars (at least 20 times the mass of the Sun) exhaust their nuclear fuel and collapse under their own gravity. The core collapses into an infinitely dense point called a singularity, surrounded by an event horizon beyond which nothing — not even light — can escape.",
+    "category": "science"
+  },
+  {
+    "question": "What is the periodic table?",
+    "answer": "The periodic table is a tabular arrangement of chemical elements organized by atomic number, electron configuration, and recurring chemical properties. It was created by Dmitri Mendeleev in 1869 and currently contains 118 confirmed elements.",
+    "category": "science"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "answer": "Alexander Graham Bell is credited with inventing the telephone in 1876. He was awarded the first patent for it on March 7, 1876.",
+    "category": "history"
+  },
+  {
+    "question": "What caused World War 1?",
+    "answer": "WWI (1914–1918) was triggered by the assassination of Archduke Franz Ferdinand of Austria-Hungary in June 1914. Underlying causes included militarism, a complex web of alliances, imperialism, and rising nationalism across Europe.",
+    "category": "history"
+  },
+  {
+    "question": "Who was Napoleon Bonaparte?",
+    "answer": "Napoleon Bonaparte (1769–1821) was a French military general and statesman who rose to power during the French Revolution. He became Emperor of France in 1804 and conquered much of Europe before his defeat at Waterloo in 1815.",
+    "category": "history"
+  },
+  {
+    "question": "What was the Renaissance?",
+    "answer": "The Renaissance was a cultural and intellectual movement that began in Italy in the 14th century and spread across Europe through the 17th century. It marked a rebirth of interest in classical Greek and Roman art, science, and philosophy, and produced figures like Leonardo da Vinci, Michelangelo, and Galileo.",
+    "category": "history"
+  },
+  {
+    "question": "Who was Mahatma Gandhi?",
+    "answer": "Mahatma Gandhi (1869–1948) was an Indian lawyer and activist who led India's independence movement against British rule using nonviolent civil disobedience. His philosophy of Satyagraha influenced civil rights movements around the world.",
+    "category": "history"
+  },
+  {
+    "question": "What was the Cold War?",
+    "answer": "The Cold War (1947–1991) was a period of geopolitical tension between the United States and the Soviet Union after World War II. It involved an arms race, space race, proxy wars, and ideological conflict between capitalism and communism, but never escalated into direct military conflict.",
+    "category": "history"
+  },
+  {
+    "question": "Who built the Great Wall of China?",
+    "answer": "The Great Wall of China was built over many centuries by various Chinese dynasties, starting as early as the 7th century BC. The most well-known sections were built by the Ming Dynasty (1368–1644). It stretches over 21,000 km and was built to protect against northern invasions.",
+    "category": "history"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "The capital of Australia is Canberra, not Sydney as many people assume. Canberra was purpose-built as a compromise between Sydney and Melbourne and became the capital in 1913.",
+    "category": "geography"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "answer": "The Nile River in Africa is traditionally considered the longest river in the world at approximately 6,650 km (4,130 miles). Some recent measurements suggest the Amazon River in South America may be longer, making it a debated topic.",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest ocean?",
+    "answer": "The Pacific Ocean is the largest and deepest ocean on Earth, covering more than 165 million square kilometers — larger than all of Earth's land area combined. It stretches from the Arctic in the north to the Antarctic in the south.",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries are in the world?",
+    "answer": "There are 195 countries in the world today — 193 member states of the United Nations, plus Vatican City and Palestine, which are permanent observer states.",
+    "category": "geography"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answer": "Mount Everest in the Himalayas is the tallest mountain above sea level at 8,848.86 meters (29,031.7 feet). It sits on the border between Nepal and Tibet and was first summited by Sir Edmund Hillary and Tenzing Norgay in 1953.",
+    "category": "geography"
+  },
+  {
+    "question": "Which is the smallest country in the world?",
+    "answer": "Vatican City is the smallest country in the world by both area (0.44 km²) and population (around 800 people). It is an independent city-state within Rome, Italy, and serves as the headquarters of the Roman Catholic Church.",
+    "category": "geography"
+  },
+  {
+    "question": "What is the Pythagorean theorem?",
+    "answer": "The Pythagorean theorem states that in a right-angled triangle, the square of the hypotenuse (the side opposite the right angle) equals the sum of squares of the other two sides: a² + b² = c². It is named after the ancient Greek mathematician Pythagoras.",
+    "category": "mathematics"
+  },
+  {
+    "question": "What is pi (π)?",
+    "answer": "Pi (π) is a mathematical constant representing the ratio of a circle's circumference to its diameter. It is approximately equal to 3.14159 and is an irrational number, meaning its decimal representation never ends or repeats.",
+    "category": "mathematics"
+  },
+  {
+    "question": "What is the difference between mean, median, and mode?",
+    "answer": "Mean is the average (sum of all values divided by count). Median is the middle value when data is sorted. Mode is the most frequently occurring value. For example, in the set {2, 3, 3, 5, 7}: mean = 4, median = 3, mode = 3.",
+    "category": "mathematics"
+  },
+  {
+    "question": "What is a prime number?",
+    "answer": "A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. Examples: 2, 3, 5, 7, 11, 13. The number 2 is the only even prime number.",
+    "category": "mathematics"
+  },
+  {
+    "question": "What is the Fibonacci sequence?",
+    "answer": "The Fibonacci sequence is a series where each number is the sum of the two preceding ones: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34... It appears frequently in nature, such as in the arrangement of leaves, flower petals, and spiral shells.",
+    "category": "mathematics"
+  },
+  {
+    "question": "What is artificial intelligence?",
+    "answer": "Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think, learn, and solve problems. It includes subfields like machine learning, deep learning, natural language processing, and computer vision.",
+    "category": "technology"
+  },
+  {
+    "question": "Who invented the World Wide Web?",
+    "answer": "Tim Berners-Lee, a British computer scientist, invented the World Wide Web in 1989 while working at CERN. He proposed a system of interlinked hypertext documents accessible via the internet, and the first website went live in 1991.",
+    "category": "technology"
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a subset of AI where systems learn from data to improve their performance without being explicitly programmed. Instead of following fixed rules, ML models identify patterns in data and make predictions or decisions based on those patterns.",
+    "category": "technology"
+  },
+  {
+    "question": "What is the difference between RAM and storage?",
+    "answer": "RAM (Random Access Memory) is temporary, fast memory that holds data the computer is actively using. Storage (like SSDs or HDDs) is permanent memory that holds data even when powered off. More RAM means better multitasking; more storage means more files.",
+    "category": "technology"
+  },
+  {
+    "question": "What is quantum computing?",
+    "answer": "Quantum computing uses principles of quantum mechanics (like superposition and entanglement) to process information. Unlike classical computers that use bits (0 or 1), quantum computers use qubits that can be both 0 and 1 simultaneously, making them exponentially faster for certain tasks.",
+    "category": "technology"
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "answer": "Romeo and Juliet was written by William Shakespeare, believed to have been written around 1594–1596. It is one of his most famous tragedies, telling the story of two young lovers from feuding families in Verona, Italy.",
+    "category": "arts_culture"
+  },
+  {
+    "question": "What is the Mona Lisa?",
+    "answer": "The Mona Lisa is a famous portrait painting by Italian Renaissance artist Leonardo da Vinci, created between 1503 and 1519. It depicts a woman believed to be Lisa Gherardini and is renowned for her mysterious smile. It is housed in the Louvre Museum in Paris.",
+    "category": "arts_culture"
+  },
+  {
+    "question": "What are the Olympics?",
+    "answer": "The Olympics are an international multi-sport event held every four years, alternating between Summer and Winter Games. They originated in ancient Greece around 776 BC and were revived as the modern Olympics in Athens in 1896 by Pierre de Coubertin.",
+    "category": "sports"
+  },
+  {
+    "question": "What is the most popular sport in the world?",
+    "answer": "Football (soccer) is the most popular sport in the world, with an estimated 4 billion fans globally. The FIFA World Cup, held every four years, is the most watched sporting event on Earth.",
+    "category": "sports"
+  },
+  {
+    "question": "How many players are in a cricket team?",
+    "answer": "A cricket team consists of 11 players. Matches are played in formats including Test cricket (up to 5 days), One Day Internationals (50 overs per side), and T20 (20 overs per side).",
+    "category": "sports"
+  },
+  {
+    "question": "What are the Seven Wonders of the Ancient World?",
+    "answer": "The Seven Wonders of the Ancient World are: 1) Great Pyramid of Giza (the only one still standing), 2) Hanging Gardens of Babylon, 3) Statue of Zeus at Olympia, 4) Temple of Artemis, 5) Mausoleum at Halicarnassus, 6) Colossus of Rhodes, 7) Lighthouse of Alexandria.",
+    "category": "general_query"
+  },
+  {
+    "question": "What is the human body's largest organ?",
+    "answer": "The skin is the largest organ of the human body. In adults, it covers about 2 square meters and weighs roughly 3.6 kg. It serves as a protective barrier, regulates temperature, and allows sensation.",
+    "category": "science"
+  },
+  {
+    "question": "How many bones are in the human body?",
+    "answer": "An adult human body has 206 bones. Babies are born with around 270–300 bones, but many fuse together during childhood and adolescence.",
+    "category": "science"
+  },
+  {
+    "question": "What is climate change?",
+    "answer": "Climate change refers to long-term shifts in global temperatures and weather patterns. While some change is natural, since the 20th century human activities — primarily burning fossil fuels — have been the main driver, releasing greenhouse gases like CO₂ that trap heat in the atmosphere.",
+    "category": "science"
+  },
+  {
+    "question": "What is the solar system?",
+    "answer": "The solar system consists of the Sun and everything gravitationally bound to it: 8 planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune), dwarf planets like Pluto, moons, asteroids, and comets. It is located in the Milky Way galaxy.",
+    "category": "science"
+  }
+]
